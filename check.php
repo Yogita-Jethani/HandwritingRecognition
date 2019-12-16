@@ -79,7 +79,7 @@ body#bg-img{
     width: 100%;
     height: 100%;
     z-index: -1;
-    background: rgba(68, 68, 68, 0.8); 
+    background: rgba(68, 68, 68, 0.9); 
 }
 
 
